@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+yfinance
+python-dotenv
+ta
+pyautogen  # for autogen_agentchat + autogen_ext
+openai     # since you use OpenAIChatCompletionClient
