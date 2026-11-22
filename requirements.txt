@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+yfinance
+python-dotenv
+ta
+autogen-agentchat>=0.4
+autogen-ext[openai]>=0.4
